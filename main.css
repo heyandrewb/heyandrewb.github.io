@@ -70,7 +70,7 @@ img {
 
 footer {
     height: 100px;
-    position: absolute;
+    position: relative;
     bottom: 0;
 }
 

@@ -80,3 +80,7 @@ footer.page-footer{
     padding-bottom: 50px;
     padding-top: 0px;
 }
+
+.rainbow{
+    -webkit-animation: rainbow 3s infinite; 
+}
